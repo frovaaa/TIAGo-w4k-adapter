@@ -1,0 +1,34 @@
+# Compiled object files
+*.o
+*.so
+*.a
+
+# Logs and temp files
+*.log
+*.swp
+*.tmp
+*.bak
+*.pid
+
+# Caches
+.cache/
+*.cache
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Linux desktop environment files
+*~
+.nfs*
+
+# Python specific (if you use it)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode or IDE configs
+.vscode/
+.idea/
