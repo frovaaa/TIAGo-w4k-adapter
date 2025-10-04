@@ -1,34 +1,10 @@
-# Compiled object files
-*.o
-*.so
-*.a
+# Ignore Everything
+*
 
-# Logs and temp files
-*.log
-*.swp
-*.tmp
-*.bak
-*.pid
+# Add dashboard_adapter
+!src/dashboard_adapter
 
-# Caches
-.cache/
-*.cache
+# and it's files
+!src/dashboard_adapter/**
 
-# System files
-.DS_Store
-Thumbs.db
-ehthumbs.db
-
-# Linux desktop environment files
-*~
-.nfs*
-
-# Python specific (if you use it)
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# VSCode or IDE configs
-.vscode/
-.idea/
+src/**/__pycache__/
