@@ -13,9 +13,9 @@ setup(
     ],
     install_requires=["setuptools"],
     zip_safe=True,
-    maintainer="Davide Frova",
-    maintainer_email="frovad@usi.ch",
-    description="Adapter package for TIAGo robot to communicate with Wizard4All Dashboard",
+    maintainer="XX XX",
+    maintainer_email="XX@XX.XX",
+    description="Adapter package for PAL Robotics TIAGo robot to communicate with XX Dashboard",
     license="Apache-2.0",
     extras_require={
         "test": [
