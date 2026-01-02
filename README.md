@@ -168,4 +168,4 @@ The TIAGo robot configuration is already included in the XX Dashboard configurat
 
 ## License
 
-This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](src/dashboard_adapter/LICENSE) file for details.
