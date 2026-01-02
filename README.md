@@ -160,11 +160,11 @@ colcon test-result --verbose
 
 ## Integration with XX Dashboard
 
-This adapter is designed to work with the [XX Dashboard](https://anonymous.4open.science/r/hogwarts-C626/README.md).
+This adapter is designed to work with the [Wizard for Kids Dashboard](https://github.com/idsia-robotics/wizard-for-kids).
 
 ### Configuration Wizard Integration
 
-The TIAGo robot configuration is already included in the XX Dashboard configuration wizard as an example robot.
+The TIAGo robot configuration is already included in the Wizard for Kids Dashboard configuration wizard as an example robot.
 
 ## License
 
